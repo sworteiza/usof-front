@@ -1,18 +1,29 @@
 # View of my site
 -----------------------------------
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 40 16 PM" src="https://user-images.githubusercontent.com/51696583/121778044-bca27700-cb9d-11eb-92eb-95fca7a670a8.png">
------------------------------------
+
+------------------------
+
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 40 45 PM" src="https://user-images.githubusercontent.com/51696583/121778045-bf04d100-cb9d-11eb-8e85-c25c4166b3a2.png">
+
 -----------------------------------
+
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 40 52 PM" src="https://user-images.githubusercontent.com/51696583/121778046-bf9d6780-cb9d-11eb-8e06-3bd58e948474.png">
+
 -----------------------------------
+
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 41 23 PM" src="https://user-images.githubusercontent.com/51696583/121778048-c1672b00-cb9d-11eb-8daf-4b1b04fbd062.png">
+
 -----------------------------------
+
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 42 05 PM" src="https://user-images.githubusercontent.com/51696583/121778051-c2985800-cb9d-11eb-9d39-682690890a0f.png">
+
 -----------------------------------
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 42 55 PM" src="https://user-images.githubusercontent.com/51696583/121778054-c330ee80-cb9d-11eb-9901-2566b580ea45.png">
+
 -----------------------------------
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 43 08 PM" src="https://user-images.githubusercontent.com/51696583/121778055-c4621b80-cb9d-11eb-95b3-ad010a3eba25.png">
+
 -----------------------------------
 
 
