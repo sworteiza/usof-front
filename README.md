@@ -1,4 +1,4 @@
-# View of my site
+## View of my site
 -----------------------------------
 <img width="1658" alt="Screen Shot 2021-06-12 at 3 40 16 PM" src="https://user-images.githubusercontent.com/51696583/121778044-bca27700-cb9d-11eb-92eb-95fca7a670a8.png" style="width:100px;">
 
